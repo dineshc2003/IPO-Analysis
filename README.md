@@ -14,7 +14,4 @@ This project involves building a deep learning classification model to predict I
 ## Installation
 Clone the repository and install the required dependencies.
 
-```bash
-git clone https://github.com/YogitShankar/P35_IPO_Analysis.git
-cd P35_IPO_Analysis
-pip install -r requirements.txt
+
